@@ -9,6 +9,9 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ *
+ */
 public class GeneratorApp {
         public void generator() throws Exception{
             File configFile = new File("generatorConfig.xml");
