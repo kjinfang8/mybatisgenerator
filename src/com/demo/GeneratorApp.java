@@ -10,7 +10,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
+ * @version 1.0
+ * @author jinfang
+ * mybatis逆向工程
  */
 public class GeneratorApp {
         public void generator() throws Exception{
